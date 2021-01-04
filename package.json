@@ -1,0 +1,20 @@
+{
+  "name": "tezbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tejas Jamdade",
+  "license": "ISC",
+  "dependencies": {
+    "node-wit": "^6.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "(index.js)"
+  },
+  "description": ""
+}
